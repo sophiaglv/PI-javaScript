@@ -36,5 +36,7 @@ btn.addEventListener('click', function(cadastro){
         const msg = document.getElementById('campo4');
         msg.textContent = 'A senha deve ter pelo menos 8 caracteres.';
     }
+
+    //oiii
 })
 
